@@ -44,7 +44,7 @@ section {
 }
 
 nav {
-    display: inline;
+    display:inline-block;
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: normal;
